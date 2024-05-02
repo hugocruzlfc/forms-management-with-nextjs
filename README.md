@@ -10,3 +10,10 @@ npx shadcn-ui@latest add form
 npx shadcn-ui@latest add input
 
 ```
+
+## Run the project:
+
+```bash
+pnpm install
+pnpm run dev
+```
